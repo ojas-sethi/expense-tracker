@@ -7,7 +7,7 @@ Hello. This is an expense tracker made with ReactJS. This is a very simple appli
  - Styling
    
 To run this application on your local machine, please follow these steps:
-1. Clone this repository on your local machine using `git clone`
+1. Clone this repository on your local machine using `git clone https://github.com/ojas-sethi/react-expense-tracker.git`
 2. Open your terminal and navigate to this project folder within the terminal
 3. Run `npm install` to install the dependencies for this project
 4. Finally, run `npm start` after the dependencies have been installed
