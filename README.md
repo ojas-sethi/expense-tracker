@@ -1,4 +1,4 @@
-# expense-tracker
+# Simple Expense Tracker with React
 Hello. This is an expense tracker made with ReactJS. This is a very simple application that uses the basics of ReactJS, including (but not limited to):
  - Division of components
  - Stateful and Stateless components
